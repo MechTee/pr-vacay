@@ -1,9 +1,11 @@
 ---
+hideInToc: true
+
 # You can also start simply with 'default'
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+background: https://imageresizer.yachtsbt.com/blog/images/Portugal/iStock-687689468.jpg
 # some information about your slides (markdown enabled)
 title: 🛫🇵🇹
 info: |
@@ -25,9 +27,7 @@ mdc: true
 #  ogImage: https://cover.sli.dev
 ---
 
-# Portugal Urlaub
-
-mit den Boyz 😎😎😎
+# Vacation: Portugal
 
 <div class="abs-br m-6 text-xl">
   <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="slidev-icon-btn">
@@ -65,23 +65,27 @@ Here is another comment.
 
 ---
 
-# Ausgeschlossene Ziele
+# Disqualified Destinations
 <br>
-<h2>Azoren (PDL)</h2>
-<br>
-
-  - kein Direktflug von STR (ca. 9 Std pro)
-  - kein direkter Hinflug von FRA ab 443€ (10 Std)
-
-
-<h2>Madeira</h2>
+<h2>Azores (PDL)</h2>
 <br>
 
-- kein Direktflug von STR (ca. 9 Std pro)
-- Direktflug von FRA ab 560€
+  - no direct flight from STR (9h per flight)
+  - no direct outward flight from FRA -> 443€ (10h)
+
+
+<h2>Madeira (FNC)</h2>
+<br>
+
+- no direct flight from STR (9h per flight)
+- direct flight from FRA -> 560€
 
 
 ---
+layout: image-right
+image: https://tr2storage.blob.core.windows.net/imagenes/qsm2gj7LRo38-O09GJiB4Adjpeg.jpeg
+---
+
 
 # OPO - Porto
 
@@ -89,7 +93,7 @@ Here is another comment.
 
 - From: STR
 - To: OPO
-- Price: 372€ p.P.
+- Price: 372€ p.p.
 - Flight 1:
   - 15.08.2025
   - 06:45 -> 08:30
@@ -123,6 +127,9 @@ level: 2
 TODO
 
 ---
+layout: image-left
+image: https://www.americanexpress.com/de-de/amexcited/media/cache/default/cms/2023/10/lissabon-sehenswuerdigkeiten-titelbild.jpg
+---
 
 # LIS - Lissabon
 
@@ -130,7 +137,7 @@ TODO
 
 - From: STR
 - To: LIS
-- Price: 402€ p.P.
+- Price: 402€ p.p.
 - Flight 1:
   - 15.08.2025
   - 10:10 -> 12:15
@@ -178,7 +185,7 @@ layout: two-cols-header
 
 # 7 days
 
-- Price: 314€ p.P.
+- Price: 314€ p.p.
 - Flight 1:
   - 15.08.2025
   - 05:50 -> 07:50
@@ -190,7 +197,7 @@ layout: two-cols-header
 
 # 8 days
 
-- Price: 357€ p.P.
+- Price: 357€ p.p.
 - Flight 1:
   - 15.08.2025
   - 05:50 -> 07:50
