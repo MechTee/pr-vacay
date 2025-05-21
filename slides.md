@@ -9,10 +9,7 @@ background: https://imageresizer.yachtsbt.com/blog/images/Portugal/iStock-687689
 # some information about your slides (markdown enabled)
 title: 🛫🇵🇹
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  Vacation 🛫🛫🇵🇹🇵🇹 with the Boyz 😎😎
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
