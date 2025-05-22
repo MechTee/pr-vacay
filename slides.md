@@ -143,7 +143,7 @@ image: https://cf.bstatic.com/xdata/images/hotel/max1024x768/465993597.jpg?k=047
 
 ![booking](/lis_1.png)
 
-about 140 a night per person
+about 140€ a night per person
 
 ---
 level: 2
@@ -161,7 +161,7 @@ image: https://cf.bstatic.com/xdata/images/hotel/max1024x768/633267184.jpg?k=9aa
 
 ![booking](/lis_2.png)
 
-about 125 a night per person
+about 125€ a night per person
 
 ---
 level: 2
@@ -212,11 +212,12 @@ level: 2
   - no real pool
   - 3 queen beds
   - otherwise fine
+  - 100€ a night per person
 
 - [Aroeira Luxury House](https://www.booking.com/hotel/pt/aroeira-luxury-house.html?label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4Arv9tcEGwAIB0gIkYzhkOTVjMDUtMTQyMS00Zjg2LWIwODEtNzM3MmE5MjMyYmY32AIF4AIB&aid=304142&ucfs=1&checkin=2025-08-15&checkout=2025-08-22&dest_id=171&dest_type=country&group_adults=4&no_rooms=1&group_children=0&nflt=price%3DEUR-min-600-1%3Bht_id%3D220%3Bht_id%3D213%3Broomfacility%3D93%3Boos%3D1&srpvid=a0715e4374d50044&srepoch=1747920340&matching_block_id=1367507601_408995726_4_0_0&atlas_src=sr_iw_title)
   - 150€ a night per person
   - beds not fully mentioned on booking
-  - longer to beach then others
+  - longer to beach than others
 
 
 
