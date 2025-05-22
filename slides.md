@@ -202,17 +202,25 @@ about 100€ a night per person
 
 ---
 level: 2
+layout: two-cols-header
 ---
 
 # Honorable Mentions
 
-<br>
+::left::
+
+- [Roma do Meco](https://www.booking.com/hotel/pt/roma-do-meco.html?label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4Arv9tcEGwAIB0gIkYzhkOTVjMDUtMTQyMS00Zjg2LWIwODEtNzM3MmE5MjMyYmY32AIF4AIB&aid=304142&ucfs=1&checkin=2025-08-15&checkout=2025-08-22&dest_id=171&dest_type=country&group_adults=4&no_rooms=1&group_children=0&nflt=price%3DEUR-min-600-1%3Bht_id%3D220%3Bht_id%3D213%3Broomfacility%3D93%3Boos%3D1&srpvid=a0715e4374d50044&srepoch=1747925669&matching_block_id=554489701_204913182_4_0_0&atlas_src=sr_iw_title&activeTab=main)
+  - bit more outside city
+  - pricey (140€)
+  - [pool missing??](https://maps.app.goo.gl/k5fsMBxpuESgK92c6)
 
 - [Moradia Familiar Piscina 5min Praia by HOST-POINT](https://www.booking.com/hotel/pt/family-villa-5-minutes-from-the-beach.html?label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4Arv9tcEGwAIB0gIkYzhkOTVjMDUtMTQyMS00Zjg2LWIwODEtNzM3MmE5MjMyYmY32AIF4AIB&aid=304142&ucfs=1&checkin=2025-08-15&checkout=2025-08-22&dest_id=171&dest_type=country&group_adults=4&no_rooms=1&group_children=0&nflt=price%3DEUR-min-600-1%3Bht_id%3D220%3Bht_id%3D213%3Broomfacility%3D93%3Boos%3D1&srpvid=a0715e4374d50044&srepoch=1747920340&matching_block_id=124258101_395976196_4_0_0&atlas_src=sr_iw_title)
   - no real pool
   - 3 queen beds
   - otherwise fine
   - 100€ a night per person
+
+::right::
 
 - [Aroeira Luxury House](https://www.booking.com/hotel/pt/aroeira-luxury-house.html?label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4Arv9tcEGwAIB0gIkYzhkOTVjMDUtMTQyMS00Zjg2LWIwODEtNzM3MmE5MjMyYmY32AIF4AIB&aid=304142&ucfs=1&checkin=2025-08-15&checkout=2025-08-22&dest_id=171&dest_type=country&group_adults=4&no_rooms=1&group_children=0&nflt=price%3DEUR-min-600-1%3Bht_id%3D220%3Bht_id%3D213%3Broomfacility%3D93%3Boos%3D1&srpvid=a0715e4374d50044&srepoch=1747920340&matching_block_id=1367507601_408995726_4_0_0&atlas_src=sr_iw_title)
   - 150€ a night per person
