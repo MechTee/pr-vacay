@@ -110,6 +110,11 @@ level: 2
 
 Hard time finding any with Pool or cool beach -> Porto as a City Vacation maybe 
 
+---
+layout: center
+---
+
+# [Overview](https://www.google.com/maps/d/edit?mid=14l4Vx3gKqXXlqWPQfKLfAiYZvjzXl3s&usp=sharing)
 
 ---
 layout: image-left
@@ -120,15 +125,14 @@ image: https://www.americanexpress.com/de-de/amexcited/media/cache/default/cms/2
 
 <br>
 
-- From: STR
-- To: LIS
+- Sight Seeing ++
+
+- STR -> LIS
 - Price: 402€ p.p.
 - Flight 1:
-  - 15.08.2025
-  - 10:10 -> 12:15
+  - 15.08.2025 10:10 -> 12:15
 - Flight 2:
-  - 22.08.2025
-  - 12:55 -> 16:45
+  - 22.08.2025 12:55 -> 16:45
 
 
 ---
@@ -250,11 +254,9 @@ layout: two-cols-header
 
 - Price: 314€ p.p.
 - Flight 1:
-  - 15.08.2025
-  - 05:50 -> 07:50
+  - 15.08.2025 05:50 -> 07:50
 - Flight 2:
-  - 22.08.2025
-  - 08:30 -> 12:25
+  - 22.08.2025 08:30 -> 12:25
 
 ::right::
 
@@ -262,11 +264,9 @@ layout: two-cols-header
 
 - Price: 357€ p.p.
 - Flight 1:
-  - 15.08.2025
-  - 05:50 -> 07:50
+  - 15.08.2025 05:50 -> 07:50
 - Flight 2:
-  - 23.08.2025
-  - 19:35 -> 23:30
+  - 23.08.2025 19:35 -> 23:30
 
 ---
 level: 2
@@ -381,7 +381,7 @@ image: https://cf.bstatic.com/xdata/images/hotel/max1024x768/659025288.jpg?k=0cb
 
 [Charming Carvoeiro Beach Villa, Algarve with Private Pool, Sea Views and Walk to Beach](https://www.booking.com/hotel/pt/charming-villa-in-carvoeiro-algarve-with-private-pool-sea-views-and-walk-to-beac.html?label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYATG4ARnIAQzYAQHoAQH4AQKIAgGoAgO4Arv9tcEGwAIB0gIkYzhkOTVjMDUtMTQyMS00Zjg2LWIwODEtNzM3MmE5MjMyYmY32AIF4AIB&aid=304142&ucfs=1&checkin=2025-08-15&checkout=2025-08-23&dest_id=171&dest_type=country&group_adults=4&no_rooms=1&group_children=0&nflt=oos%3D1%3Bprice%3DEUR-250-600-1%3Bht_id%3D213%3Bht_id%3D220%3Broomfacility%3D93&srpvid=a7954516e125010b&srepoch=1747994011&matching_block_id=1336537201_406108078_6_0_0&atlas_src=sr_iw_title#map_closed)
 
-[Maps Link](https://maps.app.goo.gl/PqHBcGmEmdMUAowe8)
+[Maps Link](https://maps.app.goo.gl/Pq  HBcGmEmdMUAowe8)
 
 ![booking](/albu_1.png)
 
